@@ -1,2 +1,2 @@
 # 23it02-Parth
-This is my first repository.
+This is my first Git Repository.
